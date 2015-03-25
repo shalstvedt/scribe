@@ -6,7 +6,7 @@
       "transform": "deamdify"
   },
   "dependencies": {
-    "git://github.com/shalstvedt/lodash-amd.git": "~3.6.0",
+    "lodash-amd": "git://github.com/shalstvedt/lodash-amd.git",
     "immutable": "~3.6.2"
   },
   "devDependencies": {
