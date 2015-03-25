@@ -6,7 +6,7 @@
       "transform": "deamdify"
   },
   "dependencies": {
-    "lodash-amd-an": "~3.5.0",
+    "lodash-amd-an": "~3.6.0",
     "immutable": "~3.6.2"
   },
   "devDependencies": {
