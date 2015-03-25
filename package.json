@@ -1,12 +1,12 @@
 {
   "name": "scribe-editor-asknature",
-  "version": "1.3.2",
+  "version": "1.3.2.1",
   "main": "src/scribe.js",
   "browserify": {
       "transform": "deamdify"
   },
   "dependencies": {
-    "lodash-amd-an": "~3.6.0",
+    "shalstvedt/lodash-amd": "~3.6.0",
     "immutable": "~3.6.2"
   },
   "devDependencies": {
