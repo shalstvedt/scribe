@@ -1,5 +1,5 @@
 {
-  "name": "scribe-editor-an",
+  "name": "scribe-editor-asknature",
   "version": "1.3.2",
   "main": "src/scribe.js",
   "browserify": {
